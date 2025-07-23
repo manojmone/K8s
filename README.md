@@ -1,4 +1,32 @@
+**Kubernetes and Containers for Database Professionals**
 
+##  Target Audience:
+
+-   Database Administrators (DBAs)
+    
+-   Data Engineers
+    
+-   DevOps Engineers with a focus on DB workloads
+    
+-   IT Professionals transitioning to containerized environments
+    
+
+##  Learning Objectives:
+
+By the end of the course, participants will be able to:
+
+-   Understand containerization and its advantages for database workloads
+    
+-   Run containerized databases using Docker
+    
+-   Deploy and manage stateful databases on Kubernetes
+    
+-   Use StatefulSets, PersistentVolumes, and Operators effectively
+    
+-   Monitor and troubleshoot containerized DB systems
+
+ ## Modules
+ 
 **Chapter 1: Background**
 
   Introduction to Containers
